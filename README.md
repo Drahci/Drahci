@@ -12,7 +12,7 @@ Hi, I'm Richard 👋
 <table>
   <tr>
     <td>
-      &nbsp;
+<!--       &nbsp; -->
     </td>
     <td>
       
