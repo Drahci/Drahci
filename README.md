@@ -9,5 +9,5 @@ Hi, I'm Richard 👋
 ##
 <div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=dark)
 </div>
