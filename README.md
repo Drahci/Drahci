@@ -8,5 +8,6 @@ Hi, I'm Richard 👋
 
 ##
 <div style="margin-left: 25px;">
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=onedark);
 </div>
