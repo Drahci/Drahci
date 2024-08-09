@@ -15,7 +15,7 @@ Hi, I'm Richard 👋
       &nbsp;
     </td>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=onedark)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=onedark);
     </td>
   </tr>
 </table>
