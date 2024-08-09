@@ -12,7 +12,6 @@ Hi, I'm Richard 👋
 <table>
   <tr>
     <td>
-<!--       &nbsp; -->
     </td>
     <td>
       
