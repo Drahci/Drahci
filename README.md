@@ -7,7 +7,6 @@ Hi, I'm Richard 👋
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/richard-ricciardi-oliveira-biondo-3018bb20b)
 
 ##
-##
 
 <table>
   <tr>
