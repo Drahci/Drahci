@@ -7,7 +7,7 @@ Hi, I'm Richard 👋
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/richard-ricciardi-oliveira-biondo-3018bb20b)
 
 ##
-<div>
+<div style="margin-left: 5px;">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=onedark)
 </div>
