@@ -19,7 +19,7 @@ Hi, I'm Richard 👋
    </td>
   </tr>
 </table>
-#
+
 🚀 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,3 +29,4 @@ Hi, I'm Richard 👋
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+##
