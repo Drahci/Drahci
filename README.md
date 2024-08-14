@@ -6,7 +6,7 @@ Hi, I'm Richard 👋
 - 🤔 I’m looking for help with improving my **Backend Development** skills, especially in **Node.js** and **Express**.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/richard-ricciardi-oliveira-biondo-3018bb20b)
 
-##
+#
 
 <table>
   <tr>
@@ -19,6 +19,7 @@ Hi, I'm Richard 👋
    </td>
   </tr>
 </table>
+#
 🚀 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
