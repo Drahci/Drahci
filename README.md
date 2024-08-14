@@ -13,7 +13,7 @@ Hi, I'm Richard 👋
     <td>
     </td>
     <td>
-      
+    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drahci&layout=compact&theme=onedark);
       
    </td>
